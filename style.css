@@ -1,0 +1,25 @@
+body {
+  font-family:Monaco, monospace
+}
+
+ul {
+    font-size: 16px;
+    color: rgb(0,0,255)
+}
+
+.ingredients {
+    font-style: italic;
+}
+
+.description {
+    background-color: bisque;
+}
+
+ol li  {
+  color:red  
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
